@@ -2,7 +2,7 @@
 ### Este repositório contém o link de alguns dos meus projetos de Análise de Dados. 
 
 ### Análise Exploratória com dados de Marketing
-[**Repositório:**](https://github.com/GiovanaHoffmann/marketing-EDA.git)
+[**Repositório**](https://github.com/GiovanaHoffmann/marketing-EDA.git)
 
 **Sobre o Projeto**
 
@@ -11,7 +11,7 @@ O objetivo deste projeto é entender padrões de comportamento dos clientes, ide
 ---
 
 ### Análise Exploratória de Dados Comerciais - Performance de Vendas
-[**Repositório:**](https://github.com/GiovanaHoffmann/AnaliseComercial-EDA.git)
+[**Repositório**](https://github.com/GiovanaHoffmann/AnaliseComercial-EDA.git)
 
 **Sobre o Projeto**
 
@@ -20,7 +20,7 @@ O objetivo desde projeto é extrair insights valiosos sobre padrões de compra, 
 ---
 
 ### Spending Habits - Análise Exploratória de Dados (EDA)
-[**Repositório:**](https://github.com/GiovanaHoffmann/Spending_Habits-EDA.git)
+[**Repositório**](https://github.com/GiovanaHoffmann/Spending_Habits-EDA.git)
 
 **Sobre o Projeto**
 
@@ -29,7 +29,7 @@ Este repositório contém uma análise exploratória de dados sobre padrões de 
 ---
 
 ### Heart Disease - Análise Exploratória de Dados (EDA)
-[**Repositório:**](https://github.com/GiovanaHoffmann/heart_disease_EDA.git)
+[**Repositório**](https://github.com/GiovanaHoffmann/heart_disease_EDA.git)
 
 **Sobre o Projeto**
 
